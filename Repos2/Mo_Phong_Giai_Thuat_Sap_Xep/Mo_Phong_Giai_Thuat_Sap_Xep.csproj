@@ -142,6 +142,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="28xp-pepefrog-superJumbo.ico" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\28xp-pepefrog-superJumbo.jpg" />
+    <None Include="Resources\sort-arrows-svgrepo-com.png" />
     <Content Include="sort-arrows-svgrepo-com.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
